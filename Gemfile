@@ -6,6 +6,7 @@ gem 'rails', '4.0.2'
 
 gem 'devise', '~> 3.1.1'
 
+gem 'paperclip', '~> 3.0'
 
 gem 'bootstrap-sass', '~> 3.0.3.0'
 
